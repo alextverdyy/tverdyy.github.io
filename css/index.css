@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(100, 100, 100);
+  font: 100 3.938em/1.38 Raleway;
+  color: rgb(255, 255, 255);
+}
+
+.encabezado {
+  float: left;
+  width: 49.08%;
+  min-height: 144px;
+  margin: 37px 0 0 15.1666666666%;
+  text-shadow: 6px 9px 5px rgba(255, 255, 255, 0.33);
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.77;
+}
+
+.encabezado span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgba(0, 0, 0, 0.98);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
